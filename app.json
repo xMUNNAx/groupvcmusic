@@ -2,7 +2,7 @@
   "name": "Music Bot",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/mrnitric/groupvcmusic",
+  "repository": "https://github.com/ImJanindu/GroupMusicBot",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
@@ -25,7 +25,6 @@
     "API_HASH": {
       "description": "App hash from my.telegram.org/apps",
       "required": true
-      "value":"1787293023"
     },
     "SUDO_USERS": {
       "description": "List of user IDs counted as admin everywhere (separated by space).",
