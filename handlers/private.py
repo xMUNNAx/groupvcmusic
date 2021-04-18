@@ -11,7 +11,7 @@ async def start(_, message: Message):
     await message.reply_text(
         f"""**Hɘƴ, I'ɱ {bn} 🎵
 
-I cʌŋ pɭʌƴ ɱʋsɩc ɩŋ ƴoʋʀ ʛʀoʋp's voɩcɘ cʌɭɭ. Dɘvɘɭopɘɗ ɓƴ [Nitric](https://t.me/mr_nitric).
+I cʌŋ pɭʌƴ ɱʋsɩc ɩŋ ƴoʋʀ ʛʀoʋp's voɩcɘ cʌɭɭ. Dɘvɘɭopɘɗ ɓƴ [MUNNA](https://t.me/SEDxD).
 
 Aɗɗ ɱɘ to ƴoʋʀ ʛʀoʋp ʌŋɗ pɭʌƴ ɱʋsɩc ʆʀɘɘɭƴ !**
         """,
@@ -19,17 +19,17 @@ Aɗɗ ɱɘ to ƴoʋʀ ʛʀoʋp ʌŋɗ pɭʌƴ ɱʋsɩc ʆʀɘɘɭƴ !**
             [
                 [
                     InlineKeyboardButton(
-                        "🛠 Soʋʀcɘ Coɗɘ 🛠", url="https://github.com/mrnitric/groupvcmusic")
+                        "MY OWNER", url="https://t.me/SEDxD")
                   ],[
                     InlineKeyboardButton(
-                        "💬 Gʀoʋp", url="https://t.me/privatelockroom"
+                        "💬 Gʀoʋp", url="https://t.me/X_F0RCE_TEAM"
                     ),
                     InlineKeyboardButton(
-                        "🔊 Bot Owŋɘʀ", url="https://t.me/mr_nitric"
+                        "🔊 Channel", url="https://t.me/X_F0RCED"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "➕ Aɗɗ Mɘ To Yoʋʀ Gʀoʋp ➕", url="https://t.me/sanki_music_bot?startgroup=true"
+                        "➕ Aɗɗ Mɘ To Yoʋʀ Gʀoʋp ➕", url="https://t.me/munna_vc_robot?startgroup=true"
                     )]
             ]
         ),
@@ -43,7 +43,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Bot Owŋɘʀ", url="https://t.me/mr_nitric")
+                        "🔊 Bot Owŋɘʀ", url="https://t.me/SEDxD")
                 ]
             ]
         )
